@@ -38,5 +38,8 @@ The results of the experts evaluation. Three experts are involved in the evaluat
 All the diagrams generated for the study.
 
 
+## Main.py
 
+The main file permits executing the similarity estimation of HPO terms. 
+Due to the non-availability of our domain ontology, it is inaccessible to perform the image similarity computation.
 
