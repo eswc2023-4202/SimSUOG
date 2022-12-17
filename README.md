@@ -6,7 +6,7 @@ The supplementary resources are composed of:
 
 ## Core (Python files):
 
-* **DomainOntology**: implements a wrapper for the Domain ontology.
+* **DomainOntology**: implements a wrapper for the Domain ontology
 * **OntologyGraph**: considers the ontology hirarchical graph and defines the semantic measures used in the study
 * **EntitiesSelection**: selects randomly a set of entities from the domain ontology to assess their similarity
 * **EntitiesSimilarityComputation**: computes the semantic similarity of the selected entities
