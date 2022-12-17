@@ -4,7 +4,7 @@ We present SimSUOG, a hybrid graph-based semantic measure for the similarity of 
 
 The supplementary resources are composed of:
 
-## Core (Python files):
+### Core (Python files - *beta version*):
 
 * **DomainOntology**: implements a wrapper for the Domain ontology
 * **OntologyGraph**: considers the ontology hirarchical graph and defines the semantic measures used in the study
@@ -13,7 +13,7 @@ The supplementary resources are composed of:
 * **ImageSimilarityComputation**: computes the similarity of the annotated images located in `csv/3.63` directory
 * **PhenotypesSelectionHPO**: selects randomly a set of entities from HPO to assess their similarity
 
-## CSV files:
+### CSV files:
 
 It contains the CSV files used as input and generated as output.
 * The annotations of images are located in `csv/3.63`
@@ -23,22 +23,22 @@ It contains the CSV files used as input and generated as output.
 * Additional results for different semantic measures are found in `other measures`
 
 
-## Ontology:
+### Ontology:
 
 In this directory, you will find the HPO ontology. Due to protection rights, unfortunately, we cannot yet publish our domain ontology.
 
 
-## Experts evaluation:
+### Experts evaluation:
 
 The results of the experts evaluation. Three experts are involved in the evaluation process.
 
 
-## Diagrams:
+### Diagrams:
 
 All the diagrams generated for the study.
 
 
-## Main.py
+### Main.py
 
 The main file permits executing the similarity estimation of HPO terms using Sim_SUOG. 
 Due to the non-availability of our domain ontology, it is not possible to test the image similarity computation.
