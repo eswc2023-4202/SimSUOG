@@ -1,0 +1,13 @@
+x,increased vascularity on Doppler examination,embryo > 7mm without cardiac activity,gestational sac within the uterine cavity,butterfly cervical vertebrae,cervical anisospondyly,thoracic anisospondyly,empty gestational sac,empty uterine cavity (absence of gestational sac),no overlying tissue layer,increased blood supply on Doppler examination,focal cystic changes in the trophoblast,cystic trophoblast/hyperechoic tissue invading the myometrium
+increased vascularity on Doppler examination,1,0.56,0.56,0.02,0.02,0.02,0.37,0.29,0.22,0.37,0.37,0.37
+embryo > 7mm without cardiac activity,0.56,1,0.91,0.02,0.02,0.02,0.37,0.29,0.22,0.37,0.37,0.37
+gestational sac within the uterine cavity,0.56,0.91,1,0.1,0.1,0.1,0.56,0.46,0.37,0.56,0.56,0.56
+butterfly cervical vertebrae,0.02,0.02,0.1,1,0.06,0.06,0.1,0.04,0.02,0.02,0.02,0.02
+cervical anisospondyly,0.02,0.02,0.1,0.06,1,0.96,0.1,0.04,0.02,0.02,0.02,0.02
+thoracic anisospondyly,0.02,0.02,0.1,0.06,0.96,1,0.1,0.04,0.02,0.02,0.02,0.02
+empty gestational sac,0.37,0.37,0.56,0.1,0.1,0.1,1,0.66,0.56,0.37,0.37,0.37
+empty uterine cavity (absence of gestational sac),0.29,0.29,0.46,0.04,0.04,0.04,0.66,1,0.66,0.29,0.29,0.29
+no overlying tissue layer,0.22,0.22,0.37,0.02,0.02,0.02,0.56,0.66,1,0.22,0.22,0.22
+increased blood supply on Doppler examination,0.37,0.37,0.56,0.02,0.02,0.02,0.37,0.29,0.22,1,0.56,0.78
+focal cystic changes in the trophoblast,0.37,0.37,0.56,0.02,0.02,0.02,0.37,0.29,0.22,0.56,1,0.56
+cystic trophoblast/hyperechoic tissue invading the myometrium,0.37,0.37,0.56,0.02,0.02,0.02,0.37,0.29,0.22,0.78,0.56,1

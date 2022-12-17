@@ -1,0 +1,13 @@
+x,incomplete miscarriage,early normally sited pregnancy,miscarriage - early embryonic demise,partial hydatidiform mole,chorioangiomas,placenta previa accreta,craniofacial dysostosis,craniosynostosis disorder,Poland syndrome,congenital subpulmonary stenosis,aneurysm of atrial septum,aortoventricular tunnel
+incomplete miscarriage,1,0.8,0.93,0.29,0.38,0.38,0.21,0.21,0.29,0.29,0.21,0.29
+early normally sited pregnancy,0.8,1,0.8,0.38,0.47,0.47,0.29,0.29,0.38,0.38,0.29,0.38
+miscarriage - early embryonic demise,0.93,0.8,1,0.29,0.38,0.38,0.21,0.21,0.29,0.29,0.21,0.29
+partial hydatidiform mole,0.29,0.38,0.29,1,0.87,0.66,0.21,0.21,0.29,0.29,0.21,0.29
+chorioangiomas,0.38,0.47,0.38,0.87,1,0.78,0.29,0.29,0.38,0.38,0.29,0.38
+placenta previa accreta,0.38,0.47,0.38,0.66,0.78,1,0.29,0.29,0.38,0.38,0.29,0.38
+craniofacial dysostosis,0.21,0.29,0.21,0.21,0.29,0.29,1,1.02,0.66,0.21,0.14,0.21
+craniosynostosis disorder,0.21,0.29,0.21,0.21,0.29,0.29,1.02,1,0.66,0.21,0.14,0.21
+Poland syndrome,0.29,0.38,0.29,0.29,0.38,0.38,0.66,0.66,1,0.29,0.21,0.29
+congenital subpulmonary stenosis,0.29,0.38,0.29,0.29,0.38,0.38,0.21,0.21,0.29,1,0.66,0.91
+aneurysm of atrial septum,0.21,0.29,0.21,0.21,0.29,0.29,0.14,0.14,0.21,0.66,1,0.66
+aortoventricular tunnel,0.29,0.38,0.29,0.29,0.38,0.38,0.21,0.21,0.29,0.91,0.66,1
