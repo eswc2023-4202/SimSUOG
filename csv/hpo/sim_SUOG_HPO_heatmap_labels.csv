@@ -1,0 +1,13 @@
+x,Spontaneous conjunctival filtering bleb,Conjunctival icterus,Heliotrope rash of eyelid,Depressed glabella,Diaphyseal cortical sclerosis,Thin long bone diaphyses,Increased lymphocyte apoptosis,Abnormal B cell proliferation,Partial IgA deficiency,Impaired cytokine signaling,Agenesis of the carotid canal,Facial capillary hemangioma
+Spontaneous conjunctival filtering bleb,1,0.94,0.84,0.48,0.07,0.13,0.13,0.13,0.02,0.13,0.32,0.48
+Conjunctival icterus,0.94,1,0.84,0.48,0.07,0.13,0.13,0.13,0.02,0.13,0.32,0.48
+Heliotrope rash of eyelid,0.84,0.84,1,0.48,0.13,0.19,0.19,0.19,0.07,0.19,0.32,0.48
+Depressed glabella,0.48,0.48,0.48,1,0.19,0.25,0.25,0.25,0.13,0.25,0.49,0.66
+Diaphyseal cortical sclerosis,0.07,0.07,0.13,0.19,1,0.85,0.25,0.25,0.13,0.25,0.25,0.19
+Thin long bone diaphyses,0.13,0.13,0.19,0.25,0.85,1,0.32,0.32,0.19,0.32,0.32,0.25
+Increased lymphocyte apoptosis,0.13,0.13,0.19,0.25,0.25,0.32,1,0.88,0.56,0.32,0.32,0.25
+Abnormal B cell proliferation,0.13,0.13,0.19,0.25,0.25,0.32,0.88,1,0.56,0.32,0.32,0.25
+Partial IgA deficiency,0.02,0.02,0.07,0.13,0.13,0.19,0.56,0.56,1,0.19,0.19,0.13
+Impaired cytokine signaling,0.13,0.13,0.19,0.25,0.25,0.32,0.32,0.32,0.19,1,0.32,0.25
+Agenesis of the carotid canal,0.32,0.32,0.32,0.49,0.25,0.32,0.32,0.32,0.19,0.32,1,0.49
+Facial capillary hemangioma,0.48,0.48,0.48,0.66,0.19,0.25,0.25,0.25,0.13,0.25,0.49,1
