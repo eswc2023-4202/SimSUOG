@@ -1,0 +1,13 @@
+x,partial hydatidiform mole,chorioangiomas,placenta previa accreta,intramural proximal coronary arterial course,aneurysm of atrial septum,aortoventricular tunnel,craniofacial dysostosis,craniosynostosis disorder,Poland syndrome,isthmic or ampullary ectopic pregnancy,ovarian ectopic pregnancy,miscarriage
+partial hydatidiform mole,1.0,0.25,0.17,0.1,0.1,0.11,0.1,0.1,0.11,0.11,0.11,0.12
+chorioangiomas,0.25,1.0,0.2,0.11,0.11,0.12,0.11,0.11,0.12,0.12,0.12,0.14
+placenta previa accreta,0.17,0.2,1.0,0.11,0.11,0.12,0.11,0.11,0.12,0.12,0.12,0.14
+intramural proximal coronary arterial course,0.1,0.11,0.11,1.0,0.14,0.17,0.09,0.09,0.1,0.1,0.1,0.11
+aneurysm of atrial septum,0.1,0.11,0.11,0.14,1.0,0.17,0.09,0.09,0.1,0.1,0.1,0.11
+aortoventricular tunnel,0.11,0.12,0.12,0.17,0.17,1.0,0.1,0.1,0.11,0.11,0.11,0.12
+craniofacial dysostosis,0.1,0.11,0.11,0.09,0.09,0.1,1.0,0.33,0.2,0.1,0.1,0.11
+craniosynostosis disorder,0.1,0.11,0.11,0.09,0.09,0.1,0.33,1.0,0.2,0.1,0.1,0.11
+Poland syndrome,0.11,0.12,0.12,0.1,0.1,0.11,0.2,0.2,1.0,0.11,0.11,0.12
+isthmic or ampullary ectopic pregnancy,0.11,0.12,0.12,0.1,0.1,0.11,0.1,0.1,0.11,1.0,0.33,0.17
+ovarian ectopic pregnancy,0.11,0.12,0.12,0.1,0.1,0.11,0.1,0.1,0.11,0.33,1.0,0.17
+miscarriage,0.12,0.14,0.14,0.11,0.11,0.12,0.11,0.11,0.12,0.17,0.17,1.0
