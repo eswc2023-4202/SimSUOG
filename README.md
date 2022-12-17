@@ -41,5 +41,5 @@ All the diagrams generated for the study.
 ## Main.py
 
 The main file permits executing the similarity estimation of HPO terms using Sim_SUOG. 
-Due to the non-availability of our domain ontology, it is not possible to perform the image similarity computation.
+Due to the non-availability of our domain ontology, it is not possible to test the image similarity computation.
 
